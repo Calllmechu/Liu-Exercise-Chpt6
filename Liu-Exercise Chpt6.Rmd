@@ -1,0 +1,34 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+# Exercise 6.1
+Overall, scraping data usually violates some term of service on the website. I think pulling data from a public website using API interface shouldn't be considered as illegal, but I think it might violate some ethical and privacy terms. First of all, if the data is open to the public and can be downloaded using API, I think the owner would allow anyone to make use of their data. However, I think there is a very important point we've learned in our data ethics class is that the data shouldn't be used for commercial purposes and we shouldn't be making profit out of it. Moreover, the researcher setting up six accounts might violate the privacy terms where in most cases only one account is allowed by one person. Even if the terms of service of the website allows to do so, its not that good because it would be considered as unethical. At last, I think since you need an API to access the data, it would be better if we don't share the data with anyone else.
+
+
+# Exercise 6.2
+I think not only names and emails address are important privacy information but also all other information like screen name and ip address. One can easily search up the screen names in big social platforms like Facebook and Twitter and they would be able to find a lot of information relevant with you. Moreover, hackers can easily hack your computer and devices by finding your ip address. Usually an area shares the same subnet mask and major network. Therefore, one can easily locate your geographical location by knowing your ip address. I would say that it would be the best not to post any of this kind of information online, since it would be causing a lot of trouble for others and it would easily violate privacy and ethical guidelines. 
+
+
+# Exercise 6.6
+I think this is quite similar to the question being asked at section 6.3. I think race, sex and family condition is a quite sensitive sociology term. It might not be very appropriate to include them in a research since the result in some ways might be very offensing. I think ethnically, it might not be the best thing to do, as it might make some people feel unconfortable but as what is mentioned in the article, we should be reporting the result honestly. If we can't raise public awareness of these problems, these issues wouldn't be improved.
+
+# Exercise 6.7
+Personally, I think the data that needs to be collected by FAFSA is needed and ethical. However, I think these information shouldn't be shared to schools and should be handled by a seperate department. Or these information should be handed to school after the student decides to enroll. On the schools' side, it is unethical. They are using the data for other purposes like wheter they should send out an offer to students. They are trying to offer the least amount of aid as possible by only trying to accept student who would be very willing to attend their school(cutoff between money). I think the school violates the privacy/ethical guidelines by using private data they should not be using for other reasons without having authorizations from students.
+
+# Exercise 6.9
+According to the law CIPSEA did not give the statistical agencies new opportunities to use federal data on business taxes in combination with the other sources for statistical purposes. Such data is protected by Title 26 and new laws would be required to enable the other agencies to use such data, which could help them improve the classifications of business into industries and thus improve the accuracy of industry statistics. Later proposals address this prospect. So unauthorized use of such data would definately be considered as unlawful. The penalty according to Legal Information Institute would be disclose any information furnished to him or her and disclose uses of any such information for any purpase.
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
